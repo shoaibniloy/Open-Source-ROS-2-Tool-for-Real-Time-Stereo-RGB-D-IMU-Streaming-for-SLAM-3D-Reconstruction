@@ -1,6 +1,3 @@
-Got it! Here’s your **entire text rewritten purely as a `README.md` code block**, fully formatted for GitHub, with markdown syntax preserved:
-
-````markdown
 # Synchronized RGB-D + IMU from OAK Camera for RTAB-Map
 
 This repository offers a synchronized stereo vision pipeline using the **Luxonis OAK** camera. It produces **disparity-based RGB-D images** via a custom stereo matching network alongside **IMU data**, making it fully compatible with **RTAB-Map** for real-time SLAM and 3D map reconstruction.
